@@ -2,7 +2,7 @@
 - 👀 I'm interested in data science and business digital;
 - 🌱 I'm currently learning about python and C#;
 - 💞️ I’m looking to collaborate on business intelligence and analytics;
-- 📫 You can contact me by email < alef.carvalho.ac@gmail.com >.
+- 📫 You can contact me by email at < alef.carvalho.ac@gmail.com >.
 
 <!---
 Alef-Carvalho-ACL/Alef-Carvalho-ACL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
