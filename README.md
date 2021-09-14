@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alef Carvalho! How are you?
 - 👀 I'm interested in data science and business digital;
-- 🌱 I'm currently learning about python and C#;
+- 🌱 I'm currently learning about python and RPA;
 - 💞️ I’m looking to collaborate on business intelligence and analytics;
 - 📫 You can contact me by email at < alef.carvalho.ac@gmail.com > / https://www.linkedin.com/in/alefcarvalho/.
 
