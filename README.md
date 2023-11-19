@@ -23,3 +23,5 @@ Hi there, I'm Alef Carvalho, a data enthusiast passionate about turning data int
 - 🔗 LinkedIn: [https://www.linkedin.com/in/alefcarvalho/](https://www.linkedin.com/in/alefcarvalho/)
 
 I'm always open to new challenges and opportunities where I can bring my expertise to the table and grow alongside talented individuals and teams. Let's make an impact together!
+
+[![00-Home.png](https://i.postimg.cc/dQ93jHfB/DALL-E-2023-11-19-10-39-42-An-illustration-for-a-Git-Hub-profile-background-The-image-should-repre.png)](https://postimg.cc/c6rdsm0g)
