@@ -5,7 +5,7 @@ Hi there, I'm Alef Carvalho, a data enthusiast passionate about turning data int
 ## About Me
 
 - 📊 **Data Analysis Pro**: With hands-on experience in Business Intelligence, I've contributed to various projects, enhancing decision-making and business operations through data.
-- 🎓 **Educational Background**: I hold a Bachelor's degree in Business Administration and an MBA in Project Management.
+- 🎓 **Educational Background**: I hold a Bachelor's degree in Business Administration, an MBA in Project Management, and specialization in Data Analysis.
 - 🛠️ **Current Focus**: Sharpening my skills in big data and analytics tools like Spark, BigQuery, and Streamlit, and diving deep into Machine Learning and Deep Learning with Python.
 - 💼 **Professional Role**: Part of the Advanced Analytics squad in a fintech firm, I'm working on developing data solutions to improve customer experience and implement growth strategies.
 - 🤝 **Collaboration Goals**: Eager to collaborate on projects that leverage business intelligence and analytics to drive meaningful outcomes.
